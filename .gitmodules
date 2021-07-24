@@ -1,3 +1,6 @@
 [submodule "Chess_Session"]
 	path = Chess_Session
 	url = https://github.com/Botond24/UnityChess_Session
+[submodule "Chess"]
+	path = Chess
+	url = https://github.com/Botond24/UnityChess
